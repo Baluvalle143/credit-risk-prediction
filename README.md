@@ -63,3 +63,7 @@ Built an end-to-end machine learning pipeline and applied Explainable AI to make
 ## 👨‍💻 Author
 
 **Balu Valle**
+
+## 📊 SHAP Visualization
+
+![SHAP Plot](your-image-name.png)
